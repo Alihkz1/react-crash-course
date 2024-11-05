@@ -3,7 +3,7 @@ import { FaUserCircle } from "react-icons/fa";
 const Navbar = () => {
   return (
     <>
-      <div className="flex justify-around items-center font-bold text-[24px] h-[50px] bg-slate-300">
+      <div className="flex justify-around items-center text-[24px] h-[50px] bg-slate-300">
         <div className="flex items-center">
           <span className="me-2">
             <FaUserCircle />
